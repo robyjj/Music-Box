@@ -1,0 +1,30 @@
+.card-panel-custom {
+	
+	margin: .5rem 0 -1rem 0;
+
+}
+
+#fixed-search {
+    padding-top : 45px;
+}
+#fixed-search form {
+    position : fixed;
+    top      : 45px;
+    left     : 15px;
+    width    : 100%;
+    z-index  : 1;
+}​
+
+center-text {
+	text-align: center;
+}
+
+.select_letter{
+    width:60px;
+    height:25px;
+}
+
+.hide
+{
+    display:none;
+}

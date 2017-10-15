@@ -1,0 +1,24 @@
+var lyrics = [
+{
+	"id":"1"
+   ,"song_name":"Turn It Up"
+   ,"song_lyric":"You are here as we lift you up \n You are riding on our praise \n Be enthroned over everything \n You are seated in our praise \n This is prophetic, I can feel it in \n the air \n  \n We lift our praise and You change the atmosphere \n With hearts open now everybody singing out \n  \n Oh! \n Turn it up, this sound of praise \n  \n Make it louder than \n any other \n  \n Lift Him up and shout His name over all (yeah) \n As we praise, well I can feel the change \n  \n As your presence now invades \n Hear the sound of the broken chains \n  \n Prison doors are giving way \n This is prophetic, I can feel it in the air \n  \n We lift our praise and You change the atmosphere \n With hearts open now everybody \n  \n singing out \n I am free! \n  \n Turn it up, this sound of praise \n Make it louder than any other \n  \n Lift Him up and shout His name over all (yeah) \n Turn it up, this sound o \n  \n  praise \n Make it louder than any other \n  \n Lift Him up and shout His name over all (yeah) \n Our praise goes up \n  \n Your rain comes down \n Our praise goes up \n  \n Your rain comes down \n Our praise goes up \n  \n Your rain comes down \n Our praise goes up \n  \n Your rain comes down \n With shouts of praise we celebrate \n  \n King of glory \n enter in \n  \n You are riding on our praise \n Oh Lord \n  \n Turn it up, this sound of praise \n Make it louder than any other \n  \n Lift Him up and shout His name over all (yeah) \n Turn it up, this sound of praise \n  \n Make it louder than any other \n Lift Him up and shout His name over all (yeah)" 
+
+},
+
+{
+	"id":"2"
+   ,"song_name":"Beautiful One"
+   ,"song_lyric":"Wonderful, so wonderful \n Is your unfailing love \n Your cross has spoken mercy over me \n  \n No eye has seen no ear has heard \n No heart could fully know \n  \n How \n glorious, how beautiful you are \n  \n Beautiful one I love you \n Beautiful one I adore \n  \n Beautiful one my soul must sing \n Powerful so powerful \n  \n Your glory fills the \n skies \n  \n Your mighty works displayed for all to see \n The beauty of your majesty \n  \n Awakes my heart to sing \n How marvellous how wonderful you are"
+},
+{
+	"id":"3"
+   ,"song_name":"Amazing Grace"
+   ,"song_lyric":"Amazing Grace! \n How sweet the sound \n That saved a wretch like me \n  \n I once was lost but now am found \n Was blind but now I see \n  \n When we've been there ten \n thousand years \n  \n Bright shining as the sun \n We've no less days to sing God's praise \n  \n Than when we've first begun \n Through many dangers, toils and snares \n  \n I hav \n  already come \n  \n 'Tis Grace has brought me safe thus far \n And Grace will lead me home \n  \n Amazing Grace! \n How sweet the sound \n  \n That saved a wretch like me \n I onc \n  \n  was lost but now am found \n Was blind but now I see \n  \n Was blind but now I see" 
+}, 
+{
+	"id":"4"
+   ,"song_name":"Welcome Holy Spirit"
+   ,"song_lyric":"Welcome Holy Spirit \n Be here with your presence \n Fill me with your power \n  \n Live inside of me \n  \n  \n You're the living water \n Never drying fountain \n  \n Comforter and counselor \n Take complete control" 
+}
+];
