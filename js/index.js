@@ -53,7 +53,7 @@ var lyrics = [
   "id":"9"
    ,"song_name":"Holy, Holy, Holy"
    ,"song_lyric":"Holy, Holy, Holy Lord God Almighty<br/>Early in the morning, our song shall rise to Thee<br/>Holy, Holy, Holy merciful and mighty<br/>God in three persons blessed Trinity<br/><br/>Holy, Holy, Holy Lord God almighty<br/>All thy works shall praise Thy name in earth and sky and sea<br/>Holy, Holy, Holy merciful and mighty<br/>God in three persons<br/>blessed Trinity<br/><br/>Holy we cry holy [x4] " 
-   ,"starting" :"O"
+   ,"starting" :"H"
 },
 {
   "id":"10"
@@ -121,7 +121,18 @@ function populateSong()
 }
 
 
+//Sorting the song list
+function predicateBy(prop){
 
+   return function(a,b){
+      if( a[prop] > b[prop]){
+          return 1;
+      }else if( a[prop] < b[prop] ){
+          return -1;
+      }
+      return 0;
+   }
+}
 
 $(document).ready(function(){
 
@@ -129,6 +140,8 @@ var startingLetters =[];
 var div_song_list_start="<ul id=\"ulSongList\"data-role=\"listview\" data-filter=\"true\" data-filter-placeholder=\"Search Songs...\" data-inset=\"true\">";
 var div_song_list_end =" </ul>"
 var list="";
+
+lyrics.sort(predicateBy("song_name"));
 $(lyrics).each(function( index ,data) {
   index = index +1;
   console.log( index + ": " + $( this ).text() + data.song_name );
@@ -142,6 +155,43 @@ $(lyrics).each(function( index ,data) {
   
 });
  $("#ulSongList").append("</ul>");
+
+
+ $(startingLettersUnique).each(function(index,data)
+{
+   $('#select_letter').append('<option value=' + data +'> ' + data + '</option>');
+});
+poplateSongNameByStartingLetter('A');
+
+
+$("#select_letter").change(function(e){
+ var letter =$(this).val();
+ $('#select_song').empty();
+ poplateSongNameByStartingLetter(letter);
+
+ //The below code removes the existing selection and repopulates correct selection
+ $('span.select_song').text($("#select_song option:first").text())
+
+});
+
+
+function poplateSongNameByStartingLetter(letter)
+{
+  //get songs based on starting letter
+ var songsFilteredByLetter = $.grep(lyrics, function(e)
+  { return e.starting == letter; 
+  });
+  //destroySelectSong();
+  // $('#select_song').html('');
+  // $('.select_song').empty();
+ $(songsFilteredByLetter).each(function(index,data)
+ {
+  $('#select_song').append('<option value=' + data.id +' onclick=redirectToSong('+data.id+')> ' + data.song_name + '</option>');
+ }); 
+
+ //$("#select_song").val($("#select_song option:first").val());
+
+}
 //var songList = div_song_list_start + list+div_song_list_end;
   $( ".opensearch" ).on( 'click', tapHandler );
     
