@@ -90,6 +90,38 @@ var lyrics = [
    ,"song_name":"Jehovah-Jireh"
    ,"song_lyric":"Jehovah Jireh<br/>My provider<br/>His grace is sufficient<br/>For me, for me, for me<br/><br/>Jehovah Jireh<br/>My provider<br/>His grace is sufficient<br/>For me<br/><br/>My God shall supply all my needs<br/>According to His riches in glory<br/>He will give His angels<br/>Charge over me<br/><br/>Jehovah Jireh cares for me, for me, for me<br/>Jehovah Jireh cares for me<br/><br/>Jehovah Jireh<br/>My provider<br/>His grace is sufficient<br/>For me, for me, for me<br/><br/>Jehovah Jireh<br/>My provider<br/>His grace is<br/>sufficient<br/>For me<br/><br/>My God shall supply all my needs<br/>According to His riches in glory<br/>He will give His angels<br/>Charge over me<br/><br/>Jehovah Jireh cares<br/>for me, for me, for me<br/>Jehovah Jireh cares for me<br/><br/>My God shall supply all my needs<br/>According to His riches in glory<br/>He will give His angels<br/>Charge<br/>over me<br/><br/>Jehovah Jireh cares for me, for me, for me<br/>Jehovah Jireh cares for me, for me, for me<br/>Jehovah Jireh cares for me<br/><br/>My God shall<br/>supply all my needs<br/>According to His riches in glory<br/>He will give His angels<br/>Charge over me<br/><br/>Jehovah Jireh cares for me, for me, for me<br/>Jehovah Jireh<br/>cares for me, for me, for me<br/>Jehovah Jireh cares for me<br/> " 
    ,"starting" :"J"
+},
+{
+  "id":"17"
+   ,"song_name":"All To Jesus"
+   ,"starting" :"A"
+   ,"song_lyric":"All to Jesus, I surrender<br/>All to Him I freely give<br/>I will ever love and trust Him,<br/>In His presence daily live.<br/><br/>I surrender all, I surrender all,<br/>All to Thee, my blessèd Savior,<br/>I surrender all.<br/><br/>All to Jesus I surrender;<br/>Humbly at His feet I bow,<br/>Worldly pleasures all forsaken;<br/>Take me, Jesus, take me now    || I surrender all ||<br/><br/>All to Jesus, I surrender<br/>Make me, Savior, wholly Thine<br/>Let me feel the Holy Spirit,<br/>Truly know that Thou art mine.     || I surrender all ||<br/><br/>All to Jesus, I surrender;<br/>Lord, I give myself to Thee;<br/>Fill me with Thy love and power;<br/>Let Thy blessing fall on me.     || I surrender all ||"
+
+},
+{
+  "id":"18"
+   ,"song_name":"As the deer panteth"
+   ,"starting" :"A"
+   ,"song_lyric":"As the deer panteth for the water<br/>So my soul longeth after thee<br/>You alone are my heart’s desire<br/>And I long to worship thee<br/><br/>You alone are my strength,<br/>my shield<br/>To you alone may my spirit yield<br/>You alone are my heart’s desire<br/>And I long to worship thee<br/><br/>You’re my friend and you are my brother<br/>Even<br/>though you are a king<br/>I love you more than any other<br/>So much more than anything<br/><br/>You alone are my strength, my shield<br/>To you alone may my spirit<br/>yield<br/>You alone are my heart’s desire<br/>And I long to worship thee<br/><br/>I love you more than gold or silver,<br/>only you can satisfy.<br/>You alone are the real<br/>joy giver<br/>and the apple of my eye.<br/><br/>You alone are my strength, my shield<br/>To you alone may my spirit yield<br/>You alone are my heart’s desire<br/>And I long to worship you "
+},
+{
+  "id":"19"
+   ,"song_name":"Bind Us Together"
+   ,"starting" :"B"
+   ,"song_lyric":"Bind us together, Lord<br/>Bind us together<br/>With cords that cannot be broken<br/>Bind us together, Lord<br/>Bind us together<br/>Bind us together in Love<br/><br/>There is only one God,<br/>There is only one King<br/>There is only one Body,<br/>That is why we sing.        <br/><br/><b> (Bind us..)</b><br/><br/>Fit for the glory of God,<br/>Purchased by His precious Son<br/>Born with the right to be free<br/>For Jesus the victory has won.         <br/><br/><b> (Bind us..)</b><br/><br/>We are the family of God<br/>We are the promise divine<br/>We are God’s chosen desire<br/>We are the glorious new wine.      <br/><br/><b> (Bind us..)</b><br/>"
+},
+{
+  "id":"20"
+   ,"song_name":"Blessed Assurance"
+   ,"starting" :"B"
+   ,"song_lyric":"Blessed assurance, Jesus is mine!<br/>Oh, what a foretaste of glory divine!<br/>Heir of salvation, purchase of God,<br/>Born of His Spirit, washed in His blood.<br/><br/>This is my story, this is my song,<br/>Praising my Savior all the day long;<br/>This is my story, this is my song,<br/>Praising my Savior all the day long.<br/><br/>Perfect submission, perfect delight,<br/>Visions of rapture now burst on my sight;<br/>Angels descending bring from above,<br/>Echoes of mercy, whispers of love.        <br/><br/><b>(This is my story..)</b><br/><br/>Perfect submission, all is at rest,<br/>I in my Savior am happy and blest;<br/>Watching and waiting, looking above,<br/>Filled with His goodness lost in His love.      <br/><br/><b>(This is my story..)</b><br/>"
+
+},
+{
+  "id":"21"
+   ,"song_name":"When upon life's billows"
+   ,"starting": "W"
+   ,"song_lyric":"When upon life’s billows you are tempest tossed,<br/>When you are discouraged, thinking all is lost,<br/>Count your many blessings, name them one by one,<br/>And it will surprise you what the Lord hath done.<br/><br/>Count your blessings, name them one by one,<br/>Count your blessings, see what God hath done!<br/>Count your blessings, name them one by one,<br/>And it will surprise you what the Lord hath done.<br/><br/>Are you ever burdened with a load of care?<br/>Does the cross seem heavy you are called to bear?<br/>Count your many blessings, every doubt will fly,<br/>And you will keep singing as the days go by. <br/><br/><b>(Count your blessings..)</b><br/><br/>When you look at others with their lands and gold,<br/>Think that Christ has promised you His wealth untold;<br/>Count your many blessings. Wealth can never buy<br/>Your reward in heaven, nor your home on high. <br/><br/><b>(Count your blessings..)</b><br/><br/>So, amid the conflict whether great or small,<br/>Do not be disheartened, God is over all;<br/>Count your many blessings, angels will attend,<br/>Help and comfort give you to your journey’s end. <br/><br/><b>(Count your blessings..)</b><br/>"
 }
 ];
 var startingLettersUnique =[];
@@ -161,7 +193,7 @@ $(lyrics).each(function( index ,data) {
 {
    $('#select_letter').append('<option value=' + data +'> ' + data + '</option>');
 });
-poplateSongNameByStartingLetter('A');
+//poplateSongNameByStartingLetter('A');
 
 
 $("#select_letter").change(function(e){
@@ -171,6 +203,12 @@ $("#select_letter").change(function(e){
 
  //The below code removes the existing selection and repopulates correct selection
  $('span.select_song').text($("#select_song option:first").text())
+
+});
+
+$("#select_song").change(function(e){
+ var songID =$(this).val();
+ redirectToSong(songID);
 
 });
 
@@ -184,11 +222,15 @@ function poplateSongNameByStartingLetter(letter)
   //destroySelectSong();
   // $('#select_song').html('');
   // $('.select_song').empty();
+   $("#ulSongList").empty();
  $(songsFilteredByLetter).each(function(index,data)
  {
-  $('#select_song').append('<option value=' + data.id +' onclick=redirectToSong('+data.id+')> ' + data.song_name + '</option>');
- }); 
 
+  $("#ulSongList").append("<li class=\"ui-li-static ui-body-inherit\" onClick=\"redirectToSong("+data.id+")\">"+data.song_name+"</li>");
+  //$('#select_song').append('<option value=' + data.id +' onclick=redirectToSong('+data.id+')> ' + data.song_name + '</option>');
+  $('#select_song').append('<option value=' + data.id +'> ' + data.song_name + '</option>');
+ }); 
+$("#ulSongList").append("</ul>");
  //$("#select_song").val($("#select_song option:first").val());
 
 }
